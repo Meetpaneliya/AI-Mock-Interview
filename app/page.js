@@ -1,10 +1,9 @@
 import { Button } from "@/components/ui/button";
-import Image from "next/image";
 
 export default function Home() {
   return (
   <div>
-    <h2>Kirthika!</h2>
+    <h2>Meet Paneliya</h2>
     <Button>Subscribe</Button>
   </div>
   );
